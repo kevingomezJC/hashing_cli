@@ -7,9 +7,13 @@
 
 ## Then, execute the script like this:
 
+sha256 Algorithm
+
 `` $ python simple_hashing_cli.py -a sha256 -f example.txt ``
 
 7e7f24709b7b5fbf73ddc126a82305250475a9c5319bf78361694c04d6c1cc6e
+
+md5 Algorithm
 
 `` $ python simple_hashing_cli.py -a md5 -f example.txt ``
 
