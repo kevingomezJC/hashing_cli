@@ -1,9 +1,9 @@
 # hashing_cli
 A simple Hashing CLI to print hashes result from files
 
-fist create a example.txt file with any string:
+first create a example.txt file with any string:
 
-touch example.txt
+`` touch example.txt ``
 
 
 Then, execute the script like this:
