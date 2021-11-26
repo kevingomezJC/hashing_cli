@@ -1,12 +1,12 @@
 # hashing_cli
 A simple Hashing CLI to print hashes result from files
 
-first create a example.txt file with any string:
+## First create a example.txt file with any string:
 
 `` touch example.txt ``
 
 
-Then, execute the script like this:
+## Then, execute the script like this:
 
 `` $ python simple_hashing_cli.py -a sha256 -f example.txt ``
 
