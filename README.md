@@ -13,3 +13,5 @@ $ python hash.py -a sha256 -f example.txt
 
 $ python hash.py -a md5 -f example.txt
 c94215df8e1ae3377cab50b7548ea791
+
+``Use `code` in your Markdown file.``
