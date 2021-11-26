@@ -1,5 +1,4 @@
-# hashing_cli
-A simple Hashing CLI to print hashes result from files
+:lock: A simple Hashing CLI to print hashes result from files
 
 ## First create a example.txt file with any string:
 
